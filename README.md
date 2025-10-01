@@ -8,6 +8,6 @@ candidate generation, feature engineering, and ranking.
 Context: fashion e-commerce, 1.3M users, 100K+ articles. Analysis, hypothesis testing, results on
 metrics.
 
-Offline metrics: Precision@K, Recall@K, MAP@K.
-Business metrics: CTR.
-Experimentation: A/B testing simulation with p-value control.
+Offline metrics: Precision@K, Recall@K, MAP@K.    
+Business metrics: CTR.     
+Experimentation: A/B testing simulation with p-value control.    
