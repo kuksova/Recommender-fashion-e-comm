@@ -10,4 +10,6 @@ metrics.
 
 Offline metrics: Precision@K, Recall@K, MAP@K.    
 Business metrics: CTR.     
-Experimentation: A/B testing simulation with p-value control.    
+Experimentation: A/B testing simulation with p-value control. 
+
+Tech Stack: candidate generation, feature engineering, and ranking.
